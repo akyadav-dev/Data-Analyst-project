@@ -14,10 +14,9 @@ Basic cleaning of a dataset using basic EDA.
 
 ## 📁 Repository Structure
 ```text
-├── data/               # Cleaned or sample dataset (ensure no sensitive data)
-├── sql_queries/        # SQL scripts used for extraction and aggregation
-├── notebooks/          # Python/Jupyter notebooks for EDA
-├── dashboard/          # Power BI (.pbix) or Tableau (.twbx) file
+|__ AyushKumarYadav2026B01010475   
+├── world_population/   # sample dataset
+├── Reqirement.txt/     # Tool required
 └── README.md           # Project documentation
 ```
 

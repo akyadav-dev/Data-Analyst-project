@@ -1,0 +1,4 @@
+TOOLS REQUIRED
+1. VS Code
+2. Data Set
+3. Python(numpy,Pandas)
